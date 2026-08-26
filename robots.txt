@@ -3,4 +3,4 @@ Disallow: /
 Allow: /$
 Allow: /posts/
 
-Sitemap: https://xfydaz.github.io/sitemap-index.xml
+Sitemap: https://github.com/xfydaz/sitemap-index.xml
