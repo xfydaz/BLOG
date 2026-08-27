@@ -1,49 +1,20 @@
+## 🌟 重要提示
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
+    请您在浏览、使用本网站前，仔细、完整阅读本免责声明。一旦您访问、浏览、订阅、评论或以任何方式使用本网站，即视为您已充分阅读、理解并同意接受本声明的全部内容。如您不同意本声明的任何条款，请立即停止使用本网站。
 
-::github{repo="LyraVoid/Mizuki"}
+### 📄 请注意
 
-## 🌟 Theme Features
+> 网站性质与内容来源本网站为个人博主运营的独立分享平台，主要用于记录、分享个人对药物相关知识的学习笔记、使用经验、科普整理与个人观点。
+> 本网站不是医疗机构、药店、药厂、医疗资讯官方平台或任何具有医疗执业资质的机构，不提供诊断、治疗、处方、用药指导或其他专业医疗服务。
+> 所有内容均来自博主个人整理、公开资料汇总或个人体验，仅供一般性参考与科普交流，不构成任何形式的医疗建议。2. 非专业医疗建议声明本网站内的一切内容（包括但不限于文章、图片、视频、图表、评论、链接等）均不能替代执业医师、执业药师或其他合格医疗专业人员的专业判断与面对面咨询。
+> 任何关于药物适应症、禁忌症、剂量、用法用量、不良反应、药物相互作用、特殊人群（孕妇、哺乳期、儿童、老年人、肝肾功能不全者等）用药的信息，均仅供参考，不能作为实际用药依据。
+> 博主不具备执业医师或执业药师资质，所分享内容仅为个人学习与经验记录，不代表专业医疗意见。
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+### 🚀 联系方式
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
-
-
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
+1. 如果您发现了某个文章的错误，欢迎您的指正
+2. X：@Huifan99，邮箱：2836598152@qq.com
 
 ---
 
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+_ ❤️ 你依然值得被温柔对待，值得重新开始，迈出寻求帮助的第一步._
