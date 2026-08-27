@@ -165,7 +165,7 @@ export const siteConfig: SiteConfig = {
       title: "大烩饭",
       switchable: true,
 
-      subtitle: ["今日はなんでもない日。でも、ちょっとだけいい日"],
+      subtitle: ["你好呀 ~"],
       typewriter: {
         enable: true, // 启用副标题打字机效果
 
