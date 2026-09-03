@@ -1,7 +1,7 @@
 ---
 title: 乙醚(Ethyl ether)的讨论与制作
-published: 2026-01-25
-# description: A generic example of browser-side post encryption.
+published: 2026-01-24
+description: 乙醚急性中毒初期呈现兴奋状态，然后引起麻醉、呕吐，进而发绀，体温下降，四肢发冷，有时会突然停止呼吸、脉搏微弱、瞳孔放大，但不会死亡，故用作麻醉剂危险性小。
 encrypted: true
 pinned: false
 password: "663311"
