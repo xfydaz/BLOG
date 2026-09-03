@@ -1,6 +1,6 @@
 ---
 title: 氯仿(Trichloromethane)的讨论与制作
-published: 2024-01-15
+published: 2026-01-25
 # description: A generic example of browser-side post encryption.
 encrypted: true
 pinned: false
