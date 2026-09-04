@@ -1,13 +1,12 @@
 ---
 title: 氯仿(Trichloromethane)的讨论与制作
 published: 2026-01-25
-# description: A generic example of browser-side post encryption.
+description: 氯仿是一种强效的全身麻醉剂，吸入或摄入时具有欣快感、抗焦虑和镇静作用。
 encrypted: true
-pinned: false
 password: "663311"
 passwordHint: "需要密码"
 hideHomeContent: true
-alias: "encrypted-example"
+alias: "Trichloromethane"
 tags: ["吸入性麻醉剂", "欣快感"]
 category: "麻醉剂"
 image: "./cover.webp"

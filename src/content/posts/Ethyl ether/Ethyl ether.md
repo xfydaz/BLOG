@@ -3,11 +3,9 @@ title: 乙醚(Ethyl ether)的讨论与制作
 published: 2026-01-24
 description: 乙醚急性中毒初期呈现兴奋状态，然后引起麻醉、呕吐，进而发绀，体温下降，四肢发冷，有时会突然停止呼吸、脉搏微弱、瞳孔放大，但不会死亡，故用作麻醉剂危险性小。
 encrypted: true
-pinned: false
 password: "663311"
 passwordHint: "需要密码"
-hideHomeContent: true
-alias: "encrypted-example"
+alias: "Ethyl ether"
 tags: ["吸入性麻醉剂"]
 category: "麻醉剂"
 image: "./cover.webp"
@@ -18,10 +16,6 @@ image: "./cover.webp"
 乙醚 Ethyl ether，二乙醚或乙氧基乙烷，是一种醚类有机化合物，化学式为C₂H₅OC₂H₅，是一种无色、高度挥发性、有甜味（这种气味被称为“醚香”）、极易燃的液体，通常在实验室中用作溶剂，并用作某些发动机的启动液。在非易燃药物如氟烷等被开发之前，医学上常被用作全身麻醉剂。火药工业用于制造无烟火药。
 
 19世纪和20世纪初，乙醚饮用在波兰农民中非常流行。它是莱姆科斯人中一种传统且仍然相对流行的娱乐性药物。通常以少量（kropka，或称“点”）形式饮用，倒在牛奶、糖水或橙汁中，倒入酒杯中。作为一种药物，它已知会导致心理依赖，有时被称为乙醚狂症。
-
-:::note[使用效果]
-
-:::
 
 ![Image description](./cover.webp)
 
