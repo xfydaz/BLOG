@@ -5,7 +5,7 @@ description: 一种苯二氮䓬类镇定剂,抗抑郁药。
 encrypted: true
 password: "663311"
 passwordHint: "需要密码"
-alias: "Ammonium nitrate"
+alias: "Clonazepam"
 tags: [氯硝西泮, 苯二氮卓, 方法]
 category: "化工原料"
 ---

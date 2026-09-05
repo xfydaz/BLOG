@@ -1,6 +1,6 @@
 ---
 title: 利他林(Methylphenidate)的讨论
-published: 2026-01-25
+published: 2026-01-21
 description: 传说中的促智药，效果不必多说。
 encrypted: true
 password: "663311"
