@@ -1,8 +1,8 @@
 ---
 title: 铝热剂的讨论
-published: 2026-02-22
+published: 2026-01-22
 description: 此材料能融化 2500摄氏度 以下熔点的绝大部分物质。
-# tags: [DXM]
+tags: [方法]
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

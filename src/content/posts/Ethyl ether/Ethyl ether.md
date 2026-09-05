@@ -1,12 +1,12 @@
 ---
 title: 乙醚(Ethyl ether)的讨论与制作
-published: 2026-01-24
+published: 2026-01-22
 description: 乙醚急性中毒初期呈现兴奋状态，然后引起麻醉、呕吐，进而发绀，体温下降，四肢发冷，有时会突然停止呼吸、脉搏微弱、瞳孔放大，但不会死亡，故用作麻醉剂危险性小。
 encrypted: true
 password: "663311"
 passwordHint: "需要密码"
 alias: "Ethyl ether"
-tags: ["吸入性麻醉剂"]
+tags: ["吸入性麻醉剂", 方法]
 category: "麻醉剂"
 image: "./cover.webp"
 ---

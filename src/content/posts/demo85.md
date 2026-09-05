@@ -2,8 +2,8 @@
 title: 1-（噻吩-3-基）丙-2-胺盐酸盐 的使用体验
 published: 2026-01-22
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [DXM]
-category: 解离剂
+# tags: [DXM]
+category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
 draft: false

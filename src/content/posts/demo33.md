@@ -2,7 +2,7 @@
 title: 1，4-丁二醇 的使用体验
 published: 2026-01-20
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [1-4-丁二醇]
+tags: [1-4丁二醇]
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

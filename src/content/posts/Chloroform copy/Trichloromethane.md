@@ -7,7 +7,7 @@ password: "663311"
 passwordHint: "需要密码"
 hideHomeContent: true
 alias: "Methylphenidate"
-tags: ["哌甲酯", "欣快感"]
+tags: ["哌甲酯", "欣快感", 方法]
 category: "促智剂"
 image: "./cover.webp"
 ---
