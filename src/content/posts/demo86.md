@@ -104,5 +104,6 @@ draft: false
 
 :::note[联系方式?]
 如果您发现了某个文章的错误欢迎您的指正,或者您有任何建议。
-X：@Huifan99
+X：[@Huifan99](https://x.com/Huifan99/)
+
 :::
