@@ -2,7 +2,7 @@
 title: 蘑菇 的使用体验
 published: 2026-01-20
 description: 外网英译体验，危险行为请勿模仿 ！
-tags: [蘑菇]
+tags: [蘑菇, 植物]
 category: 致幻剂
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

@@ -2,7 +2,7 @@
 title: 蘑菇 联用 西柚汁 的使用体验
 published: 2026-01-22
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [蘑菇]
+tags: [蘑菇, 植物]
 category: 致幻剂
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

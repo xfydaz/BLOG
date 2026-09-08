@@ -2,10 +2,10 @@
 title: 卡痛树脂 的讨论与制作
 published: 2026-01-21
 description: 一种纯天然植物的奇思妙想。
-encrypted: true
-password: "663311"
-passwordHint: "需要密码"
-alias: "katon"
+# encrypted: true
+# password: "663311"
+# passwordHint: "需要密码"
+# alias: "katon"
 tags: [植物, 方法]
 category: "化工原料"
 ---

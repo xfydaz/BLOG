@@ -1,6 +1,6 @@
 ---
 title: 黑金索(RDX)的讨论与制作
-published: 2026-01-21
+published: 2026-01-23
 description: 如果说黑金索不认识的话， “C4” 这个大家应该都熟悉。
 # encrypted: true
 # password: "663311"

@@ -1,6 +1,6 @@
 ---
 title: 硝酸铵(Ammonium nitrate)的讨论与制作
-published: 2026-01-23
+published: 2026-01-20
 description: 主要用作肥料及工业用和军用炸药。
 # encrypted: true
 # password: "663311"
