@@ -1,6 +1,6 @@
 ---
 title: DXM右美沙芬 的使用体验
-published: 2026-01-20
+published: 2026-09-07
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
 tags: [DXM]
 category: 解离剂
