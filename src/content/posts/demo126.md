@@ -14,7 +14,7 @@ draft: false
 
 ## 3-Me-PCPy（3-Methyl-PCPy，也称 3-Methylrolicyclidine 或 M3ppy）
 
-3-Me-PCPy（3-Methyl-PCPy，也称 3-Methylrolicyclidine 或 M3ppy） 是一种芳基环己胺类（arylcyclohexylamine）研究化学品。化学系统名为 1-[1-(3-甲基苯基)环己基]吡咯烷，CAS 号 1622348-63-3，分子式 C17H25N\mathrm{C*{17}H*{25}N}\mathrm{C*{17}H*{25}N}
+3-Me-PCPy（3-Methyl-PCPy，也称 3-Methylrolicyclidine 或 M3ppy） 是一种芳基环己胺类（arylcyclohexylamine）研究化学品。化学系统名为 1-[1-(3-甲基苯基)环己基]吡咯烷，CAS 号 1622348-63-3
 ，分子量约 243.4 g/mol。它是苯环利定（PCP）的结构类似物（PCPy 的 3-甲基苯基衍生物）。它属于新型精神活性物质（NPS），主要用于科学研究，未获任何国家批准用于人体医疗。许多国家和地区（英国、德国、澳大利亚、日本等）将其纳入芳基环己胺类似物或 PCP 类似物管制范围。
 
 ## 物质特性
