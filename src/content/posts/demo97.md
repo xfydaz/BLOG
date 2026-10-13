@@ -2,7 +2,6 @@
 title: 可卡因合成
 published: 2026-01-06
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-# tags: [苯海拉明]
 encrypted: true
 password: "663311"
 passwordHint: "需要密码"
