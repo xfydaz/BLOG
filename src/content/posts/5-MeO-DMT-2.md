@@ -2,7 +2,7 @@
 title: 5-MeO-DMT 介绍
 published: 2026-01-20
 description: 外网英译体验，危险行为请勿模仿 ！
-tags: [5-MeO-DMT]
+tags: [5-MeO-DMT, 介绍]
 category: 致幻剂
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
