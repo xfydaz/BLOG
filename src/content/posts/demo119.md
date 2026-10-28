@@ -2,7 +2,7 @@
 title: D2PM（Diphenylprolinol) 的介绍
 published: 2026-09-16
 description: 一种兴奋剂
-# tags: [阿片]
+tags: [介绍]
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

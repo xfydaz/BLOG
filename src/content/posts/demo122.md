@@ -3,6 +3,7 @@ title: 盐酸美金刚 的介绍
 published: 2026-09-16
 description: 一种解离剂
 category: 解离剂
+tags: [介绍]
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
 draft: false

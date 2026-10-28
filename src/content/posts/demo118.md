@@ -2,7 +2,7 @@
 title: SR-14968 的介绍
 published: 2026-09-14
 description: 一种阿片类受体的镇痛剂
-tags: [阿片]
+tags: [阿片, 介绍]
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

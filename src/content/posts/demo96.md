@@ -2,7 +2,7 @@
 title: 苯海拉明 的介绍与使用体验
 published: 2026-09-06
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [苯海拉明]
+tags: [苯海拉明, 介绍]
 category: 抗抑郁药
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

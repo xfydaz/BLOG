@@ -2,7 +2,7 @@
 title: 乙醇(酒精) 与 调酒配方  的介绍
 published: 2026-09-11
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [方法]
+tags: [方法, 介绍]
 category: 麻醉剂
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

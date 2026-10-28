@@ -2,7 +2,7 @@
 title: 加波沙朵 的介绍
 published: 2026-09-14
 description: 一种镇定剂
-tags: [加波沙朵]
+tags: [加波沙朵, 介绍]
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

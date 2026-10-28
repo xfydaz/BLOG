@@ -2,7 +2,7 @@
 title: IC-26(WIN 1161) 介绍
 published: 2026-09-08
 description: 一种阿片受体激动剂
-tags: [阿片]
+tags: [阿片, 介绍]
 category: 化工原料
 ---
 

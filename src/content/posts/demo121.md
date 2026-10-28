@@ -3,6 +3,7 @@ title: 亚硝酸酯 的介绍
 published: 2026-09-16
 description: 一种肌肉松弛剂
 category: 化工原料
+tags: [介绍]
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
 draft: false

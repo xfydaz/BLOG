@@ -3,6 +3,7 @@ title: DiPT 的介绍
 published: 2026-09-25
 description: 致幻物质
 category: 化工原料
+tags: [介绍]
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
 draft: false

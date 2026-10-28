@@ -2,6 +2,8 @@
 title: 普罗林坦 的介绍
 published: 2026-09-14
 description: 一种致幻剂、兴奋剂
+tags: [介绍]
+
 category: 化工原料
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭

@@ -3,6 +3,7 @@ title: 苄达明（Benzidamine）的介绍
 published: 2026-09-07
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
 category: 化工原料
+tags: [介绍]
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
 draft: false

@@ -2,7 +2,7 @@
 title: 噻奈普汀 介绍
 published: 2026-09-08
 description: 一种非典型的μ阿片受体激动剂，同时也是抗抑郁药
-tags: [阿片, 噻奈普汀]
+tags: [阿片, 噻奈普汀, 介绍]
 category: 抗抑郁药
 ---
 

@@ -2,7 +2,7 @@
 title: 肉豆蔻醚（Myristicin）  的介绍
 published: 2026-09-11
 description: OD是危险行为，回头是岸，危险行为请勿模仿 ！
-tags: [植物]
+tags: [植物, 介绍]
 category: 谵妄剂
 licenseName: "CC BY-NC-SA 4.0"
 author: 烩饭
